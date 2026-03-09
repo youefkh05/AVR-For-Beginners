@@ -37,13 +37,6 @@
 
 ---
 
-# Sheet الأسماء
-
-تقدر تشوف **شيت الأسماء** من هنا:
-
-[https://docs.google.com/spreadsheets/d/1xVAWmlLgMULAgjUf220EhxxTqYp04tr8gfWWwUZBZ1U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1xVAWmlLgMULAgjUf220EhxxTqYp04tr8gfWWwUZBZ1U/edit?usp=sharing)
-
----
 
 # مواعيد السيشنز
 
