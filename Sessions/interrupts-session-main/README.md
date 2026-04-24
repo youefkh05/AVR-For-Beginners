@@ -1,2 +1,0 @@
-# interrupts-session
-for ieee
